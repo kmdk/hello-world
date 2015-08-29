@@ -1,2 +1,2 @@
 # hello-world
-# This is my silly read-me file
+I am learning how to create a repository, issues, branches, and all the github goodness.
